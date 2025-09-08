@@ -2,10 +2,107 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Test Page</title>
+  <title>Experimental Academic Homepage</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      margin:0; font-family: system-ui, sans-serif; line-height:1.6;
+      max-width:72ch; margin:auto; padding:2rem 1rem; background:#fff; color:#111;
+    }
+    h1,h2 { line-height:1.2; }
+    nav a { margin-right:1rem; color:#3366cc; text-decoration:none; }
+    nav a:hover { text-decoration:underline; }
+    footer { margin-top:3rem; font-size:.9rem; color:#555; }
+    .pill { padding:.4rem .7rem; border-radius:999px; border:1px solid #ddd; background:#f6f6f8; cursor:pointer; }
+
+    /* word cloud */
+    #wordcloud .cloud { position:relative; height:20rem; border-radius:12px; background:#f6f6f8; overflow:hidden; }
+    #wordcloud .cloud span {
+      position:absolute; left:var(--x); top:var(--y); transform:translate(-50%,-50%);
+      font-weight:700; white-space:nowrap; color:#111;
+    }
+
+    .vertical { writing-mode: vertical-rl; text-orientation: mixed; font-weight:700; }
+    .rotate { display:inline-block; transform:rotate(-6deg); }
+
+    .experimental {
+      background: radial-gradient(60% 80% at 30% 20%, #ffe8ba, transparent 60%),
+                  radial-gradient(50% 70% at 80% 30%, #cde7ff, transparent 60%),
+                  #fff;
+    }
+  </style>
 </head>
 <body>
-  <h1>Hello, world!</h1>
-  <p>If this shows up as a big heading and a paragraph, HTML is rendering correctly.</p>
+  <header>
+    <h1>Your Name</h1>
+    <p>Your position — Your institution</p>
+    <nav>
+      <a href="#research">Research</a>
+      <a href="#publications">Publications</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <button id="themeToggle" class="pill">Toggle Background</button>
+  </header>
+
+  <main>
+    <section id="research">
+      <h2>Research</h2>
+      <p>Write a short summary of your research interests here.</p>
+      <p class="vertical">vertical text example</p>
+      <p>This is a <span class="rotate">rotated phrase</span>.</p>
+    </section>
+
+    <section id="publications">
+      <h2>Publications</h2>
+      <ul>
+        <li>First item</li>
+        <li>Second item</li>
+      </ul>
+    </section>
+
+    <section id="wordcloud">
+      <h2>Keywords</h2>
+      <div class="cloud" aria-label="word cloud"></div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© <span id="year"></span> Your Name</p>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    // Background toggle
+    const tog = document.getElementById('themeToggle');
+    let funky = false;
+    tog?.addEventListener('click', () => {
+      funky = !funky;
+      document.body.classList.toggle('experimental', funky);
+    });
+
+    // Word cloud words
+    const words = [
+      ["sociolinguistics", 10], ["accent", 8], ["bias", 7],
+      ["perception", 6], ["agency", 7], ["ethics", 5],
+      ["language", 6], ["cognition", 5], ["society", 4]
+    ];
+    const el = document.querySelector(".cloud");
+    words.forEach(([w, wt]) => {
+      const s = document.createElement("span");
+      s.textContent = w;
+      s.style.fontSize = `${10 + wt * 2}px`;
+      s.style.opacity  = String(0.4 + wt/20);
+      s.style.transform = `rotate(${(Math.random()*10-5).toFixed(1)}deg)`;
+      s.style.setProperty("--x", Math.random()*100 + "%");
+      s.style.setProperty("--y", Math.random()*100 + "%");
+      el.appendChild(s);
+    });
+  </script>
 </body>
 </html>
