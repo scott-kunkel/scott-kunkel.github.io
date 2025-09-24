@@ -56,7 +56,7 @@ theme        = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
   [languages.en.params]
-    subtitle = "| Research"
+    subtitle = "Research"
 
     [languages.en.params.logo]
       logoText     = "Following questions wherever they lead"
