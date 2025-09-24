@@ -15,6 +15,6 @@ I'm increasingly interested in ways that linguistics can be used to uncover and 
 
 I'm a firm believer in open science practices and in keeping research as accessible and inclusive as possible.
 
-🌱 Aside from research, I enjoy hiking, vegan cooking, reading about ethics and anarchism, and listening to music (my tastes typically vacillate between ambient and sludge metal).  
+🌱 Beyond research, I enjoy hiking, vegan cooking, reading about ethics and anarchism, and listening to music (my tastes typically vacillate between ambient and sludge metal).  
 
 </div>
