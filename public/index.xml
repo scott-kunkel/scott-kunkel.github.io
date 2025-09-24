@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Scott Kunkel</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome on Scott Kunkel</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A bit about me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Scott (he/him)&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently a &lt;strong&gt;postdoctoral researcher&lt;/strong&gt; at University of Konstanz (from February 2025). Before that, I did a PhD at Queen Mary University of London (2021-2025).&lt;/p&gt;&#xA;&lt;p&gt;My work straddles the boundaries between &lt;strong&gt;sociolinguistics&lt;/strong&gt;, &lt;strong&gt;psycholinguistics&lt;/strong&gt;, and &lt;strong&gt;social psychology&lt;/strong&gt;. In my research, I primarily use &lt;strong&gt;experimental methods&lt;/strong&gt; to better understand the ways in which sociolinguistic variation is represented in the mind.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m increasingly interested in ways that linguistics can be used to uncover and help in rectifying societal inequalities.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
