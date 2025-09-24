@@ -56,7 +56,7 @@ theme        = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
   [languages.en.params]
-    subtitle = "A simple theme for Hugo"
+    subtitle = "Pull up a chair"
 
     [languages.en.params.logo]
       logoText     = "Following questions wherever they lead"
@@ -66,16 +66,19 @@ theme        = "hello-friend-ng"
       # alt  = "Your example logo alt text"
 
 [[menu.main]]
-  identifier = "About"
+  identifier = "about"
   name       = "About"
   url        = "/about/"
+  weight     = 1
 
 [[menu.main]]
-  identifier = "Projects"
+  identifier = "projects"
   name       = "Projects"
   url        = "/projects/"
+  weight     = 2
 
 [[menu.main]]
-  identifier = "Cv"
+  identifier = "cv"
   name       = "CV"
   url        = "/cv/"
+  weight     = 3

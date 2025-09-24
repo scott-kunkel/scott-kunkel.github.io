@@ -1,9 +1,9 @@
   
 ---
-title: "A bit about me"
+title: "A bit about me…"
 ---
 
-Hi, I'm Scott (he/him) 
+Hi, I'm Scott (he/him) ✋
 
 <div style="text-align: justify;">
 
