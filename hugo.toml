@@ -21,6 +21,16 @@ theme        = "hello-friend-ng"
   keywords    = "homepage, blog"
   images      = [""]
 
+[params.favicon]
+  # Path relative to /static
+  logo = "favicon.ico"
+  # Optional: SVG mask icon
+  mask = "favicon-32x32.png"
+  # Optional: Apple Touch icon
+  appleTouchIcon = "apple-touch-icon.png"
+  # Optional: Safari pinned tab color
+  color = "#000000"
+
 [[params.social]]
   name = "email"
   url  = "mailto:scott.kunkel@uni-konstanz.de"
@@ -61,11 +71,11 @@ theme        = "hello-friend-ng"
   url        = "/about/"
 
 [[menu.main]]
-  identifier = "projects"
+  identifier = "Projects"
   name       = "Projects"
   url        = "/projects/"
 
 [[menu.main]]
-  identifier = "cv"
+  identifier = "Cv"
   name       = "CV"
   url        = "/cv/"
