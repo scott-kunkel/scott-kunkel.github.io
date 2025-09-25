@@ -1,5 +1,3 @@
-.single .content,
-.page .content,
-.list .content {
-  text-align: justify;
+.post-content p {
+    text-align: justify;
 }
