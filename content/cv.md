@@ -4,10 +4,10 @@ title: "CV"
 
 
 ## Education
-- **PhD in Linguistics**, University of Konstanz (Year – Year)  
-- **MA in Linguistics**, [University Name] (Year – Year)  
-- **MA in French Linguistics**, [Indiana University] (Year – Year)  
-- **BA in [Field]**, [University Name] (Year – Year)
+- **PhD in Linguistics**, Queen Mary University of London, UK (2025)  
+- **MA in Linguistics**, Indiana University, US (2021)  
+- **MA in French Linguistics**, Indiana University, US (2020)  
+- **BA in Linguistics, Minor in French**, University of Georgia, US (2017)
 
 
 ## Journal Publications
