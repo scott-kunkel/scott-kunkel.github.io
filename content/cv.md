@@ -26,5 +26,47 @@ title: "CV"
 
 ---
 
+## Recent Presentations
+- **Kunkel, S.**, Frassinelli, D., Gallo, A., Link, P., Quiros-Ramirez, M., Shikano, S., … Rathcke, T. (2025). *Testing primed associations of gendered political charisma using high-fidelity virtual avatars.* Talk given at **Embodied and Situated Language Processing (ESLP)**, Aix-en-Provence, France. September 2025.
+
+- **Kunkel, S.** (2024). *[tsy] es d'où? Evidence for language attitude effects on second dialect acquisition.* Poster presented at **East London Postgraduate Sociophonetics Conference (ELSoC)**, London, United Kingdom. September 2024.  
+
+- **Kunkel, S.** (2024). *Effects of speaker mobility on perception of French speech in noise.* Talk given at **ICLaVE12**, Vienna, Austria. July 2024.  
+
+- Barnard, M., **Kunkel, S.**, Lamarque, R., & Chong, A.J. (2024). *Pupillary response as a measure of cognitive load in the processing of accented speech.* Poster presented at **Lab Phon 19**, Seoul, South Korea. June 2024.  
+
+- **Kunkel, S.**, Chong, A.J., & de Leeuw, E. (2024). *The effects of dialect background and second dialect exposure on the categorical perception of the low vowel contrast in French.* Talk given at **BAAP24**, Cardiff University, Wales. March 2024.  
+
+- Barnard, M., **Kunkel, S.**, Lamarque, R., & Chong, A.J. (2024). *Listening effort across non-native and regional accents: a pupillometry study.* Talk given at **BAAP24**, Cardiff University, Wales. March 2024.  
+
+- **Kunkel, S.** (2024). *Effects of speaker mobility on perception of French speech in noise.* Talk given at **ConSOLE 32**, Queen Mary University of London, United Kingdom. January 2024.  
+
+- **Kunkel, S.** (2023). *Longitudinal change in the adjective intensifier system of Hexagonal French.* Talk given at **NWAV 51**, Queens College, New York, United States. October 2023.  
+
+- **Kunkel, S.** & de Leeuw, E. (2022). *The effect of speaker mobility on the perception of two vocalic contrasts in a second dialect French context.* Talk given at **Association for French Language Studies Conference**, Exeter University, United Kingdom. July 2022. [Virtual talk]  
+
+- **Kunkel, S.** & de Leeuw, E. (2022). *The perception and production of two vocalic contrasts in a second dialect of French.* Talk given at **GURT**, Georgetown University, United States. March 2022. [Virtual talk]  
+
+---
+
 ## Teaching
-- Course Title — Semester — Institution  
+- **Sociophonetics (MA)** — University of Konstanz, Konstanz, Germany  
+  *Fall 2025*
+
+- **Introduction to Phonetics (Undergraduate and MA)** — Taught by James White, University College London, London, UK  
+  *Fall 2023, Fall 2024*
+
+- **Phonology I: Introduction to Sound Systems (Undergraduate)** — Taught by Adam Chong, Queen Mary University of London, London, UK  
+  *Spring 2022*
+
+- **Public Oral Communication (Undergraduate)** — Indiana University, Bloomington, Indiana, USA  
+  *Fall 2020, Spring 2021, Summer 2021*
+
+- **Reading French for Graduate Students (MA and PhD)** — Indiana University, Bloomington, Indiana, USA  
+  *Spring 2020*
+
+- **Second-Year French I: Language and Culture (Undergraduate)** — Indiana University, Bloomington, Indiana, USA  
+  *Fall 2019*
+
+- **Elementary French II: Language and Culture (Undergraduate)** — Indiana University, Bloomington, Indiana, USA  
+  *Fall 2018, Spring 2019*
