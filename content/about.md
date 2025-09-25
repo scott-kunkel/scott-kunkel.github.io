@@ -13,7 +13,7 @@ My work straddles the boundaries between **sociolinguistics**, **psycholinguisti
 
 I'm increasingly interested in ways that linguistics can be used to uncover and help rectify societal inequalities.
 
-I'm a firm believer in open science practices and in keeping research as accessible and inclusive as possible.
+I'm a firm advocate for open science practices and for making research as accessible and inclusive as possible.
 
 🌱 Beyond research, I enjoy hiking, vegan cooking, reading about ethics and anarchism, and listening to music (my tastes typically vacillate between ambient and sludge metal).  
 
