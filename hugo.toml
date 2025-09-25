@@ -21,6 +21,8 @@ theme        = "hello-friend-ng"
   keywords    = "homepage, blog"
   images      = [""]
 
+  customCSS = ["css/custom.css"]
+
 [params.favicon]
   # Path relative to /static
   logo = "favicon.ico"
