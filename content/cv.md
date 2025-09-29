@@ -66,7 +66,7 @@ You can download my full CV [here](https://drive.google.com/file/d/1ajCCmhKAhlQi
   Course organized through the *Konstanz Methods Excellence Workshops (KOMEX)*, Konstanz, Germany
 
 - **Bayesian statistics for social scientists** — *February–March 2025*  
-  Course organized through the *LISS-DTP “Advanced Research Methods”* series ([materials here](#)), London, UK
+  Course organized through the *LISS-DTP “Advanced Research Methods”* series, London, UK
 
 - **Introduction to conducting Bayesian analyses in R** — *16 October 2024*  
   Organization of a workshop on Bayesian statistical analyses, Queen Mary University of London, UK
