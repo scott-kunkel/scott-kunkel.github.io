@@ -2,6 +2,8 @@
 title: "CV"
 ---
 
+You can download my full CV [here](https://drive.google.com/file/d/1ajCCmhKAhlQihZNxtQKJ1gIbrZY6lvCY/view?usp=sharing).
+
 ## Education
 - **PhD in Linguistics**, Queen Mary University of London, UK (2025)  
 - **MA in Linguistics**, Indiana University, US (2021)  
@@ -42,16 +44,18 @@ title: "CV"
 - **Kunkel, S.** & de Leeuw, E. (2022). *The perception and production of two vocalic contrasts in a second dialect of French.* Talk given at **GURT**, Georgetown University, United States. March 2022. [Virtual talk]  
 
 ## Teaching
-- **Sociophonetics (MA)** — University of Konstanz, Konstanz, Germany: *Fall 2025*
+* Primary instructor
 
-- **Introduction to Phonetics (Undergraduate and MA)** — Teaching assistant (Taught by James White), University College London, London, UK (*Fall 2023, Fall 2024*)
+- **Sociophonetics (MA)*** — University of Konstanz, Konstanz, Germany: *Fall 2025*
 
-- **Phonology I: Introduction to Sound Systems (Undergraduate)** — Teaching assistant (Taught by Adam Chong), Queen Mary University of London, London, UK: *Spring 2022*
+- **Introduction to Phonetics (Undergraduate and MA)** — University College London, London, UK: *Fall 2023, Fall 2024*
 
-- **Public Oral Communication (Undergraduate)** — Indiana University, Bloomington, Indiana, USA: *Fall 2020, Spring 2021, Summer 2021*
+- **Phonology I: Introduction to Sound Systems (Undergraduate)** — Queen Mary University of London, London, UK: *Spring 2022*
 
-- **Reading French for Graduate Students (MA and PhD)** — Indiana University, Bloomington, Indiana, USA: *Spring 2020*
+- **Public Oral Communication (Undergraduate)*** — Indiana University, Bloomington, Indiana, USA: *Fall 2020, Spring 2021, Summer 2021*
 
-- **Second-Year French I: Language and Culture (Undergraduate)** — Indiana University, Bloomington, Indiana, USA: *Fall 2019*
+- **Reading French for Graduate Students (MA and PhD)*** — Indiana University, Bloomington, Indiana, USA: *Spring 2020*
 
-- **Elementary French II: Language and Culture (Undergraduate)** — Indiana University, Bloomington, Indiana, USA: *Fall 2018, Spring 2019*
+- **Second-Year French I: Language and Culture (Undergraduate)*** — Indiana University, Bloomington, Indiana, USA: *Fall 2019*
+
+- **Elementary French II: Language and Culture (Undergraduate)*** — Indiana University, Bloomington, Indiana, USA: *Fall 2018, Spring 2019*
