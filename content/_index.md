@@ -1,6 +1,13 @@
 ---
-title: "Welcome"
+title: "Home"
 ---
 
-Hi, I’m Scott Kunkel. I’m an experimental linguist primarily interested in questions relating to speech perception and the representation of sociolinguistic variation in the mind. 
+<p style="text-align:center;">
+  <img src="/images/me.jpg" alt="Scott Kunkel headshot" 
+style="max-width:180px; border-radius:50%; margin-bottom:15px;">
+</p>
+
+# Scott Kunkel
+
+Researcher • Linguist • Human being
 
