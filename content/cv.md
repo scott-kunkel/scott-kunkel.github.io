@@ -60,3 +60,21 @@ You can download my full CV [here](https://drive.google.com/file/d/1ajCCmhKAhlQi
 
 - **Elementary French II: Language and Culture (Undergraduate)**† — Indiana University, Bloomington, Indiana, USA: *Fall 2018, Spring 2019*
 
+## Workshops
+
+- **Introduction to Bayesian statistical analysis** — *February 2026*  
+  Course organized through the *Konstanz Methods Excellence Workshops (KOMEX)*, Konstanz, Germany
+
+- **Bayesian statistics for social scientists** — *February–March 2025*  
+  Course organized through the *LISS-DTP “Advanced Research Methods”* series ([materials here](#)), London, UK
+
+- **Introduction to conducting Bayesian analyses in R** — *16 October 2024*  
+  Organization of a workshop on Bayesian statistical analyses, Queen Mary University of London, UK
+
+- **Experimental Linguistics Taster Day** — *12 June 2024*  
+  Organization of a workshop on pupillometry for secondary school students, Queen Mary University of London, UK
+
+- **Undergraduate Experimental Linguistics Summer School** — *30 May 2023*  
+  Organization of an introductory workshop on eye-tracking, Queen Mary University of London, UK
+
+
