@@ -46,19 +46,19 @@ You can download my full CV [here](https://drive.google.com/file/d/1ajCCmhKAhlQi
 ## Teaching
 † Primary instructor
 
-- **Sociophonetics (MA)**† — University of Konstanz, Konstanz, Germany: *Fall 2025*
+- **Sociophonetics (MA)** † — University of Konstanz, Konstanz, Germany: *Fall 2025*
 
 - **Introduction to Phonetics (Undergraduate and MA)** — University College London, London, UK: *Fall 2023, Fall 2024*
 
 - **Phonology I: Introduction to Sound Systems (Undergraduate)** — Queen Mary University of London, London, UK: *Spring 2022*
 
-- **Public Oral Communication (Undergraduate)**† — Indiana University, Bloomington, Indiana, USA: *Fall 2020, Spring 2021, Summer 2021*
+- **Public Oral Communication (Undergraduate)** † — Indiana University, Bloomington, Indiana, USA: *Fall 2020, Spring 2021, Summer 2021*
 
-- **Reading French for Graduate Students (MA and PhD)**† — Indiana University, Bloomington, Indiana, USA: *Spring 2020*
+- **Reading French for Graduate Students (MA and PhD)** † — Indiana University, Bloomington, Indiana, USA: *Spring 2020*
 
-- **Second-Year French I: Language and Culture (Undergraduate)**† — Indiana University, Bloomington, Indiana, USA: *Fall 2019*
+- **Second-Year French I: Language and Culture (Undergraduate)** † — Indiana University, Bloomington, Indiana, USA: *Fall 2019*
 
-- **Elementary French II: Language and Culture (Undergraduate)**† — Indiana University, Bloomington, Indiana, USA: *Fall 2018, Spring 2019*
+- **Elementary French II: Language and Culture (Undergraduate)** † — Indiana University, Bloomington, Indiana, USA: *Fall 2018, Spring 2019*
 
 ## Workshops
 

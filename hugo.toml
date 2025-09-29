@@ -43,7 +43,7 @@ theme        = "hello-friend-ng"
 
 [[params.social]]
   name = "googlescholar"
-  url  = "https://scholar.google.com/citations?user=B-vSFV0AAAAJ&hl=en"
+  url  = "https://scholar.google.com/citations?user=B-vSFV0AAAAJ&hl=en&oi=ao"
 
 [taxonomies]
   category = "blog"
