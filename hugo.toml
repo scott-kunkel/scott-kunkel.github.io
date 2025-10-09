@@ -54,8 +54,7 @@ theme        = "hello-friend-ng"
   [languages.en]
     title     = "Scott Kunkel"
     keywords  = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
+    copyright = '© 2025 Scott Kunkel · Powered by <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> · Theme: <a href="https://github.com/rhazdon/hugo-theme-hello-friend-ng" target="_blank" rel="noopener">hello-friend-ng</a>'
 
   [languages.en.params]
     subtitle = "Research"
