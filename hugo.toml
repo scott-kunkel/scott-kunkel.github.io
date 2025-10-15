@@ -24,6 +24,7 @@ theme        = "hello-friend-ng"
   customCSS = ["css/custom.css"]
 
   enableThemeToggle = true 
+  defaultTheme = "auto"
 
 [params.favicon]
   # Path relative to /static
