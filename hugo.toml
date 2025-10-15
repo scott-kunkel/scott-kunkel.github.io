@@ -70,13 +70,13 @@ theme        = "hello-friend-ng"
   identifier = "about"
   name       = "About"
   url        = "/about/"
-  weight     = 1
+  weight     = 10
 
 [[menu.main]]
   identifier = "projects"
   name       = "Projects"
   url        = "/projects/"
-  weight     = 2
+  weight     = 20
 
 [[menu.main]]
   identifier = "cv"
@@ -87,4 +87,4 @@ theme        = "hello-friend-ng"
  [[menu.main]]
    name = "Contact"
    url = "/contact/"
-   weight = 90   
+   weight = 40   
