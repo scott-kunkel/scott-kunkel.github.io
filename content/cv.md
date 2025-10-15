@@ -11,6 +11,8 @@ You can download my full CV [here](https://drive.google.com/file/d/1ajCCmhKAhlQi
 - **BA in Linguistics, Minor in French**, University of Georgia, US (2017)
 
 ## Journal Publications
+- Barnard, M., **Kunkel, S.** [co-first authors], Lamarque, R. & Chong, A. J. (accepted). Listening effort across non-native and regional accents: a pupillometry study. *Language and Speech.* [[Pre-print]](https://www.researchgate.net/publication/392650334_Listening_effort_across_non-native_and_regional_accents_a_pupillometry_study)
+
 - **Kunkel, S.** (2025). Asymmetry in French speech-in-noise perception: the effects of native dialect and second dialect exposure. *Linguistics Vanguard.* [https://doi.org/10.1515/lingvan-2024-0247](https://doi.org/10.1515/lingvan-2024-0247)
 
 - **Kunkel, S.** (2024). Longitudinal change in the adjective intensifier system of Hexagonal French.  *Journal of French Language Studies*, 1–33. [https://doi.org/10.1017/S0959269524000139](https://doi.org/10.1017/S0959269524000139)
@@ -18,8 +20,6 @@ You can download my full CV [here](https://drive.google.com/file/d/1ajCCmhKAhlQi
 - **Kunkel, S.**, Passoni, E., & de Leeuw, E. (2023). Perceptual discrimination of phonemic contrasts in Quebec French: Exposure to Quebec French does not improve perception in Hexagonal French native speakers living in Quebec. *Languages, 8*(3), 1–24. [https://doi.org/10.3390/languages8030193](https://doi.org/10.3390/languages8030193)
 
 ## Submitted Articles
-- Barnard, M., **Kunkel, S.** [co-first authors], Lamarque, R. & Chong, A. J. (accepted). Listening effort across non-native and regional accents: a pupillometry study. *Language and Speech.* [[Pre-print]](https://www.researchgate.net/publication/392650334_Listening_effort_across_non-native_and_regional_accents_a_pupillometry_study)
-
 - **Kunkel, S.**, Chong, A. J., & de Leeuw, E. (under review). The effects of cross-dialectal exposure on the perception and production of the French low vowel contrast. *Laboratory Phonology.* [[Pre-print]](https://www.researchgate.net/publication/394750088_Cross-dialectal_exposure_effects_on_the_production_and_perception_of_the_French_low-vowel_contrast)
 
 ## Recent Presentations
@@ -61,12 +61,11 @@ You can download my full CV [here](https://drive.google.com/file/d/1ajCCmhKAhlQi
 - **Elementary French II: Language and Culture (Undergraduate)** † — Indiana University, Bloomington, Indiana, USA: *Fall 2018, Spring 2019*
 
 ## Workshops
-
 - **Introduction to Bayesian statistical analysis** — *Planned for February 2026*  
   Course organized through the *Konstanz Methods Excellence Workshops (KOMEX)*, Konstanz, Germany
 
 - **Bayesian statistics for social scientists** — *February–March 2025, Planned for March 2026*  
-  Course organized through the *LISS-DTP “Advanced Research Methods”* series, London, UK
+  Course organized through the *LISS-DTP “Advanced Research Methods”* series, London, UK [[Materials here]](https://osf.io/2fduz/overview)
 
 - **Introduction to conducting Bayesian analyses in R** — *16 October 2024*  
   Organization of a workshop on Bayesian statistical analyses, Queen Mary University of London, UK
