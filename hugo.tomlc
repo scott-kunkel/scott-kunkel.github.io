@@ -11,6 +11,8 @@ theme        = "hello-friend-ng"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
+  customCSS = ["css/custom.css"]
+
   homeSubtitle = "Researcher • Linguist • Human being"
 
   disableReadOtherPosts = false
@@ -20,8 +22,6 @@ theme        = "hello-friend-ng"
   description = "My new homepage or blog"
   keywords    = "homepage, blog"
   images      = [""]
-
-  customCSS = ["css/custom.css"]
 
 [params.favicon]
   # Path relative to /static
