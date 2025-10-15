@@ -1,31 +1,35 @@
-
-
-.site-footer {
+/* --- Footer --- */
+.footer-copyright {
   text-align: center;
-  padding: 1rem 0;
-  font-size: 0.9rem;
-  color: #666;
-  border-top: 1px solid #ddd;
-  margin-top: 3rem;
-  background-color: #fafafa;
+  margin: 1rem auto;
 }
 
-.site-footer p {
-  margin: 0;
-}.post-content p {
-    text-align: justify;
+.footer-copyright p {
+  margin: 0.3rem 0;
 }
 
+.footer-copyright a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.footer-copyright a:hover {
+  color: #9FE2BF; /* foam-green accent */
+}
+
+/* --- Optional: minor dark-mode tweak --- */
+body.dark-theme .footer-copyright {
+  color: #aaa;
+}
+
+/* --- Cursor (from earlier) --- */
 .logo__cursor {
-  background-color: #9FE2BF; /* Replace with your preferred color */
+  background-color: #9FE2BF;
+  animation: cursorBlink 1.2s steps(1) infinite;
 }
 
-/* Optional: make it blink slower */
 @keyframes cursorBlink {
   0%, 49% { opacity: 1; }
   50%, 100% { opacity: 0; }
 }
 
-.logo__cursor {
-  animation: cursorBlink 1.2s steps(1) infinite; /* increase time for slower blink */
-}
