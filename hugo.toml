@@ -23,6 +23,8 @@ theme        = "hello-friend-ng"
 
   customCSS = ["css/custom.css"]
 
+  enableThemeToggle = true 
+
 [params.favicon]
   # Path relative to /static
   logo = "favicon.ico"
