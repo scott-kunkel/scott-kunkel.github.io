@@ -82,4 +82,9 @@ theme        = "hello-friend-ng"
   identifier = "cv"
   name       = "CV"
   url        = "/cv/"
-  weight     = 3
+  weight     = 30
+
+ [[menu.main]]
+   name = "Contact"
+   url = "/contact/"
+   weight = 90   
