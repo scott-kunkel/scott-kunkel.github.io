@@ -16,9 +16,12 @@ Foreign- or nonstandard-accented individuals are typically evaluated less positi
 
 2. The second gap relates to **what can be done to mitigate accent-based hiring bias**. Although a multitude of studies have pointed to accent as a source of discrimination in the job market, very few have systematically tested the efficacy of **interventions against accent bias**. In my research, I am interested in comparing the efficacy of *affective*, *behavioral*, and *cognitive* interventions in reducing bias and increasing opportunities for underrepresented candidates.     
 
-## Influence of intersectional social cues in speech perception 
+## Influence of intersectional social cues in political speech perception
 
-Coming soon…
+Speech perception most often occurs in the presence of other social cues, such as visual cues about the ethnicity of a speaker. Despite this, research on the sociolinguistic perception of speakers has largely  focused on social information gleaned exclusively from linguistic cues. As a result, it remains poorly understood how differences in speech perception arise from the intersection of multimodal sociolinguistic cues. 
+
+In my postdoctoral research at the University of Konstanz, I have explored this topic in the context of political speech. In collaboration with [Tamara Rathcke] (https://tamara-rathcke.github.io/), I am currently investigating **how the confluence of accentedness (e.g., foreign vs. native), gender, and ethnicity influence speech perception and downstream judgements**, including political persuasion, perceived political agency, and gendered associations of political charisma. By uncovering how accent, gender, and ethnicity work together to shape social perception, this work contributes to a more nuanced and ecological model of impression formation in real-life communicative contexts.
+
 
 ## Listening effort in accented speech processing
 
@@ -31,4 +34,4 @@ I am currently working with Marc, Rémi, and [Ruohan Guo](https://profiles.ucl.a
 
 In my PhD research, I studied **how long-term exposure to a second dialect (D2) of a native language influences the mental representation of dialectal sounds**. My investigation focused specifically on native French speakers who had moved between France and Quebec. To examine how cross-dialectal exposure affects different levels of the language system, I tested changes in both speech production and perception. One of the most interesting patterns I found was that individuals showed *asymmetrical change* across these domains in the degree to which they adapted to a D2: mobile speakers from France showed more adaptation toward Quebec French than mobile Quebec speakers did toward Hexagonal French (i.e., the French of France). I argue that this reflects, in part, the **asymmetrical prestige and presence** of Hexagonal French versus Quebec French.
 
-I am currently expanding this work on D2 acquisition in a Francophone context in collaboration with [Nadège Fournier](https://www.researchgate.net/profile/Nadege-Fournier-2) and [Julie Auger](https://julieaugerudem.wordpress.com/).
+I am currently working to expand this work on D2 acquisition in a Francophone context in collaboration with [Nadège Fournier](https://www.researchgate.net/profile/Nadege-Fournier-2), [Josiane Riverin-Coutlée] (https://jriverincoutlee.wordpress.com/about/), and [Julie Auger](https://julieaugerudem.wordpress.com/).
