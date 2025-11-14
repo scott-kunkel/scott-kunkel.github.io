@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-You can download my full CV [here](https://drive.google.com/file/d/1ajCCmhKAhlQihZNxtQKJ1gIbrZY6lvCY/view?usp=sharing).
+You can download my full CV [here](https://drive.google.com/file/d/1sdSXOGk-_hU3PVFXGfLWsQFuUw_Kx-fd/view?usp=drive_link).
 
 ## Education
 - **PhD in Linguistics**, Queen Mary University of London, UK (2025)  
@@ -20,7 +20,7 @@ You can download my full CV [here](https://drive.google.com/file/d/1ajCCmhKAhlQi
 - **Kunkel, S.**, Passoni, E., & de Leeuw, E. (2023). Perceptual discrimination of phonemic contrasts in Quebec French: Exposure to Quebec French does not improve perception in Hexagonal French native speakers living in Quebec. *Languages, 8*(3), 1–24. [https://doi.org/10.3390/languages8030193](https://doi.org/10.3390/languages8030193)
 
 ## Submitted Articles
-- **Kunkel, S.**, Chong, A. J., & de Leeuw, E. (under review). The effects of cross-dialectal exposure on the perception and production of the French low vowel contrast. *Laboratory Phonology.* [[Pre-print]](https://www.researchgate.net/publication/394750088_Cross-dialectal_exposure_effects_on_the_production_and_perception_of_the_French_low-vowel_contrast)
+- **Kunkel, S.**, Chong, A. J., & de Leeuw, E. (under revision). The effects of cross-dialectal exposure on the perception and production of the French low vowel contrast. *Laboratory Phonology.* [[Pre-print]](https://www.researchgate.net/publication/394750088_Cross-dialectal_exposure_effects_on_the_production_and_perception_of_the_French_low-vowel_contrast)
 
 ## Recent Presentations
 - **Kunkel, S.**, Frassinelli, D., Gallo, A., Link, P., Quiros-Ramirez, M., Shikano, S., … Rathcke, T. (2025). *Testing primed associations of gendered political charisma using high-fidelity virtual avatars.* Talk given at Embodied and Situated Language Processing (ESLP), Aix-en-Provence, France. September 2025.
