@@ -11,7 +11,7 @@ theme        = "hello-friend-ng"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  homeSubtitle = "Sociolinguist • Researcher • Human being"
+  homeSubtitle = "Linguist • Researcher • Human being"
 
   disableReadOtherPosts = false
   enableSharingButtons  = true
@@ -57,13 +57,13 @@ theme        = "hello-friend-ng"
   [languages.en]
     title     = "Scott Kunkel"
     keywords  = ""
-    copyright = '© 2025 Scott Kunkel · Powered by <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> · Theme: <a href="https://github.com/rhazdon/hugo-theme-hello-friend-ng" target="_blank" rel="noopener">hello-friend-ng</a>'
+    copyright = '© 2026 Scott Kunkel · Powered by <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> · Theme: <a href="https://github.com/rhazdon/hugo-theme-hello-friend-ng" target="_blank" rel="noopener">hello-friend-ng</a>'
 
   [languages.en.params]
     subtitle = "Research"
 
     [languages.en.params.logo]
-      logoText     = "Following questions wherever they lead"
+      logoText     = ""
       logoHomeLink = "/"
       # Or use an image logo instead:
       # path = "/img/your-example-logo.svg"
