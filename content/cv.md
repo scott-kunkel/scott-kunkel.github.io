@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-You can download my full CV [here](https://drive.google.com/file/d/1sdSXOGk-_hU3PVFXGfLWsQFuUw_Kx-fd/view?usp=drive_link).
+You can download my full CV [here](https://drive.google.com/file/d/1Fol804SeYuPDU-OTDRdzbZN9793tbn-E/view?usp=sharing).
 
 ## Education
 - **PhD in Linguistics**, Queen Mary University of London, UK (2025)  
@@ -11,7 +11,7 @@ You can download my full CV [here](https://drive.google.com/file/d/1sdSXOGk-_hU3
 - **BA in Linguistics, Minor in French**, University of Georgia, US (2017)
 
 ## Journal Publications
-- Barnard, M., **Kunkel, S.** [co-first authors], Lamarque, R. & Chong, A. J. (accepted). Listening effort across non-native and regional accents: a pupillometry study. *Language and Speech.* [[Pre-print]](https://www.researchgate.net/publication/392650334_Listening_effort_across_non-native_and_regional_accents_a_pupillometry_study)
+- Barnard, M., **Kunkel, S.** [co-first authors], Lamarque, R. & Chong, A. J. (2025). Listening effort across non-native and regional accents: a pupillometry study. *Language and Speech.* [https://doi.org/10.1177/00238309251389573](https://journals.sagepub.com/doi/10.1177/00238309251389573)
 
 - **Kunkel, S.** (2025). Asymmetry in French speech-in-noise perception: the effects of native dialect and second dialect exposure. *Linguistics Vanguard.* [https://doi.org/10.1515/lingvan-2024-0247](https://doi.org/10.1515/lingvan-2024-0247)
 
@@ -19,7 +19,7 @@ You can download my full CV [here](https://drive.google.com/file/d/1sdSXOGk-_hU3
 
 - **Kunkel, S.**, Passoni, E., & de Leeuw, E. (2023). Perceptual discrimination of phonemic contrasts in Quebec French: Exposure to Quebec French does not improve perception in Hexagonal French native speakers living in Quebec. *Languages, 8*(3), 1–24. [https://doi.org/10.3390/languages8030193](https://doi.org/10.3390/languages8030193)
 
-## Submitted Articles
+## Articles under review
 - **Kunkel, S.**, Chong, A. J., & de Leeuw, E. (under revision). The effects of cross-dialectal exposure on the perception and production of the French low vowel contrast. *Laboratory Phonology.* [[Pre-print]](https://www.researchgate.net/publication/394750088_Cross-dialectal_exposure_effects_on_the_production_and_perception_of_the_French_low-vowel_contrast)
 
 ## Recent Presentations
