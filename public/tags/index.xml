@@ -5,16 +5,8 @@
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Scott Kunkel</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <copyright>© 2025 Scott Kunkel · Powered by &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; · Theme: &lt;a href=&#34;https://github.com/rhazdon/hugo-theme-hello-friend-ng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hello-friend-ng&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 24 Sep 2025 18:01:41 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Untagged</title>
-      <link>http://localhost:1313/tags/untagged/</link>
-      <pubDate>Wed, 24 Sep 2025 18:01:41 +0200</pubDate>
-      <guid>http://localhost:1313/tags/untagged/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

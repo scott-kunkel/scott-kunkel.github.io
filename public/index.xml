@@ -5,23 +5,15 @@
     <link>http://localhost:1313/</link>
     <description>Recent content in Home on Scott Kunkel</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <copyright>© 2025 Scott Kunkel · Powered by &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; · Theme: &lt;a href=&#34;https://github.com/rhazdon/hugo-theme-hello-friend-ng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hello-friend-ng&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 24 Sep 2025 18:01:41 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 24 Sep 2025 18:01:41 +0200</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
-    </item>
     <item>
       <title>A bit about me…</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Scott (he/him) ✋&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently a &lt;strong&gt;postdoctoral researcher&lt;/strong&gt; at University of Konstanz (from February 2025). Before that, I did my doctoral studies at Queen Mary University of London (2021-2025), my master&amp;rsquo;s studies at Indiana University (2018-2021), and my bachelor&amp;rsquo;s studies at University of Georgia (2012-2017).&lt;/p&gt;&#xA;&lt;p&gt;My work straddles the boundaries between &lt;strong&gt;sociolinguistics&lt;/strong&gt;, &lt;strong&gt;psycholinguistics&lt;/strong&gt;, and &lt;strong&gt;social psychology&lt;/strong&gt;. In my research, I primarily use &lt;strong&gt;experimental methods&lt;/strong&gt; to better understand the ways in which sociolinguistic variation is represented in the mind, as well as the perceptual and behavioral outcomes of these representations.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Scott (he/him) ✋&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I&amp;rsquo;m currently a &lt;strong&gt;postdoctoral researcher&lt;/strong&gt; at the University of Konstanz. Before that, I completed my doctoral studies at Queen Mary University of London (2021-2025), my master&amp;rsquo;s studies at Indiana University (2018-2021), and my bachelor&amp;rsquo;s studies at the University of Georgia (2012-2017).&lt;/p&gt;&#xA;&lt;p&gt;My work sits at the intersection of &lt;strong&gt;sociolinguistics&lt;/strong&gt;, &lt;strong&gt;psycholinguistics&lt;/strong&gt;, and &lt;strong&gt;social psychology&lt;/strong&gt;. In my research, I primarily use &lt;strong&gt;experimental methods&lt;/strong&gt; to better understand the ways in which sociolinguistic variation is represented in the mind, as well as the perceptual and behavioral outcomes of these representations. I draw on a range of innovative, quantitative approaches in my work, including eye tracking, social-cuing paradigms in speech perception, and implicit-stereotype priming. Much of my work focuses on &lt;strong&gt;accent perception and phonetic variation&lt;/strong&gt;, particularly across varieties of French and English.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
@@ -31,18 +23,18 @@
       <description>&lt;p&gt;You can reach me at &lt;strong&gt;scott.kunkel[at]uni-konstanz.de&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Current projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;social-and-cognitive-mechanisms-of-accent-based-hiring-bias&#34;&gt;Social and cognitive mechanisms of accent-based hiring bias&lt;/h2&gt;&#xA;&lt;p&gt;Foreign- or nonstandard-accented individuals are typically evaluated less positively in terms of hirability compared to native- or standard-accented speakers with the same qualifications. Despite decades of experimental work on &lt;strong&gt;accent-based hiring bias&lt;/strong&gt;, significant gaps remain that limit the applicability of this research to real-life recruitment contexts. In current research, I am interested in exploring two of these gaps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The first relates to &lt;strong&gt;how individuals form impressions of marginalized job candidates&lt;/strong&gt;. As most studies on accent-based bias have relied solely on speech recordings in testing this phenomenon, little is know about how &lt;strong&gt;intersectional&lt;/strong&gt; sociolinguistic cues influence hiring outcomes. I am particularly interested in how &lt;em&gt;accent&lt;/em&gt;, &lt;em&gt;gender&lt;/em&gt;, and &lt;em&gt;ethnicity&lt;/em&gt; interact in shaping the perceived hirability of job candidates.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>CV</title>
       <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cv/</guid>
-      <description>&lt;p&gt;You can download my full CV &lt;a href=&#34;https://drive.google.com/file/d/1ajCCmhKAhlQihZNxtQKJ1gIbrZY6lvCY/view?usp=sharing&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;PhD in Linguistics&lt;/strong&gt;, Queen Mary University of London, UK (2025)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;MA in Linguistics&lt;/strong&gt;, Indiana University, US (2021)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;MA in French Linguistics&lt;/strong&gt;, Indiana University, US (2020)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;BA in Linguistics, Minor in French&lt;/strong&gt;, University of Georgia, US (2017)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;journal-publications&#34;&gt;Journal Publications&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Barnard, M., &lt;strong&gt;Kunkel, S.&lt;/strong&gt; [co-first authors], Lamarque, R. &amp;amp; Chong, A. J. (accepted). Listening effort across non-native and regional accents: a pupillometry study. &lt;em&gt;Language and Speech.&lt;/em&gt; &lt;a href=&#34;https://www.researchgate.net/publication/392650334_Listening_effort_across_non-native_and_regional_accents_a_pupillometry_study&#34;&gt;[Pre-print]&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;language-variation-in-animal-rights-advocacy&#34;&gt;Language variation in animal rights advocacy&lt;/h2&gt;&#xA;&lt;p&gt;The modern factory farming industry is one of the most ethically troubling issues of the present day, not only for its consequences for animal welfare but also its detrimental impact on the environment. Despite an increasing amount of research on how awareness of such issues leads to downstream changes in dietary choice, very little work has looked at how &lt;em&gt;linguistic&lt;/em&gt; variation may shape receptivity to and, relatedly, efficacy of animal rights messaging.&lt;/p&gt;</description>
+      <description>&lt;p&gt;You can download my full CV &lt;a href=&#34;https://drive.google.com/file/d/1sdSXOGk-_hU3PVFXGfLWsQFuUw_Kx-fd/view?usp=drive_link&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;PhD in Linguistics&lt;/strong&gt;, Queen Mary University of London, UK (2025)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;MA in Linguistics&lt;/strong&gt;, Indiana University, US (2021)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;MA in French Linguistics&lt;/strong&gt;, Indiana University, US (2020)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;BA in Linguistics, Minor in French&lt;/strong&gt;, University of Georgia, US (2017)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;journal-publications&#34;&gt;Journal Publications&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Barnard, M., &lt;strong&gt;Kunkel, S.&lt;/strong&gt; [co-first authors], Lamarque, R. &amp;amp; Chong, A. J. (accepted). Listening effort across non-native and regional accents: a pupillometry study. &lt;em&gt;Language and Speech.&lt;/em&gt; &lt;a href=&#34;https://www.researchgate.net/publication/392650334_Listening_effort_across_non-native_and_regional_accents_a_pupillometry_study&#34;&gt;[Pre-print]&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
