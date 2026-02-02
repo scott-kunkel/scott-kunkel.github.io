@@ -9,7 +9,7 @@ Hi, I'm Scott (he/him).
 
 I completed my PhD in Linguistics at Queen Mary University of London (2021-2025), my master's studies at Indiana University (2018-2021), and my bachelor's studies at the University of Georgia (2012-2017). In 2025, I worked as a postdoctoral researcher at the University of Konstanz. 
 
-My research sits at the intersection of **sociolinguistics**, **phonetics**, and **psycholinguistics**. In my work, I primarily use **experimental methods** to better understand the ways in which sociolinguistic variation is represented in the mind, as well as the perceptual and behavioral outcomes of these representations. I draw on a range of innovative, quantitative approaches in my work. Much of my work focuses on **cross-dialectal variation and accent perception**, particularly across varieties of French and English.
+My work sits at the intersection of **sociolinguistics**, **phonetics**, and **psycholinguistics**. In my research, I primarily use **experimental methods** to better understand the ways in which sociolinguistic variation is represented in the mind, as well as the perceptual and behavioral outcomes of these representations. I draw on a range of innovative, quantitative approaches in my work. Much of my work focuses on **cross-dialectal variation and accent perception**, particularly across varieties of French and English.
 
 I'm increasingly interested in ways that linguistics can be used to reveal and help rectify societal inequalities. I'm a firm advocate for open science practices and for making research as accessible and inclusive as possible.
 
