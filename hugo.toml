@@ -26,6 +26,8 @@ theme        = "hello-friend-ng"
   enableThemeToggle = true 
   defaultTheme = "auto"
 
+  showHomeContent = true
+
 [params.favicon]
   # Path relative to /static
   logo = "favicon.ico"
