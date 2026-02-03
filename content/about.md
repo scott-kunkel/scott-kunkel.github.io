@@ -2,6 +2,7 @@
 ---
 title: "A bit about me…"
 ---
+{{< image src="/img/me.jpg" alt="Scott Kunkel" position="center" style="border-radius: 8px;" >}}
 
 Hi, I'm Scott (he/him).
 
