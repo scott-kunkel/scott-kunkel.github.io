@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Scott Kunkel</title>
+    <title>Scott Kunkel</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Scott Kunkel</description>
+    <description>Recent content on Scott Kunkel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2026 Scott Kunkel · Powered by &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; · Theme: &lt;a href=&#34;https://github.com/rhazdon/hugo-theme-hello-friend-ng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hello-friend-ng&lt;/a&gt;</copyright>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Scott (he/him)&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;During 2025, I worked as a postdoctoral researcher at the University of Konstanz. Before that, I completed my doctoral studies at Queen Mary University of London (2021-2025), my master&amp;rsquo;s studies at Indiana University (2018-2021), and my bachelor&amp;rsquo;s studies at the University of Georgia (2012-2017).&lt;/p&gt;&#xA;&lt;p&gt;My work sits at the intersection of &lt;strong&gt;sociolinguistics&lt;/strong&gt; and &lt;strong&gt;psycholinguistics&lt;/strong&gt;. In my research, I primarily use &lt;strong&gt;experimental methods&lt;/strong&gt; to better understand the ways in which sociolinguistic variation is represented in the mind, as well as the perceptual and behavioral outcomes of these representations. I draw on a range of innovative, quantitative approaches in my work. Much of my work focuses on &lt;strong&gt;accent perception and phonetic variation&lt;/strong&gt;, particularly across varieties of French and English.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Scott (he/him).&lt;/p&gt;&#xA;&lt;div style=&#34;text-align: justify;&#34;&gt;&#xA;&lt;p&gt;I received my PhD in Linguistics from Queen Mary University of London (2025). I previously earned my master’s degree from Indiana University (2021) and my bachelor’s degree from the University of Georgia (2017). In 2025, I worked as a postdoctoral researcher at the University of Konstanz.&lt;/p&gt;&#xA;&lt;p&gt;My work sits at the intersection of &lt;strong&gt;variationist sociolinguistics&lt;/strong&gt;, &lt;strong&gt;phonetics&lt;/strong&gt;, and &lt;strong&gt;psycholinguistics&lt;/strong&gt;. I use a range of quantitative methods to understand how socially meaningful variation is represented in the mind and how these representations shape perception and linguistic behavior. My current work focuses on cross-dialectal variation and accent perception, particularly across varieties of French and English, with an emphasis on experimentally modeling socially conditioned variation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
@@ -27,7 +27,7 @@
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;social-and-cognitive-mechanisms-of-accent-based-hiring-bias&#34;&gt;Social and cognitive mechanisms of accent-based hiring bias&lt;/h2&gt;&#xA;&lt;p&gt;Foreign- or nonstandard-accented individuals are typically evaluated less positively in terms of hirability compared to native- or standard-accented speakers with the same qualifications. Despite decades of experimental work on &lt;strong&gt;accent-based hiring bias&lt;/strong&gt;, significant gaps remain that limit the applicability of this research to real-life recruitment contexts. In current research, I am interested in exploring two of these gaps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The first relates to &lt;strong&gt;how individuals form impressions of marginalized job candidates&lt;/strong&gt;. As most studies on accent-based bias have relied solely on speech recordings in testing this phenomenon, little is know about how &lt;strong&gt;intersectional&lt;/strong&gt; sociolinguistic cues influence hiring outcomes. I am particularly interested in how &lt;em&gt;accent&lt;/em&gt;, &lt;em&gt;gender&lt;/em&gt;, and &lt;em&gt;ethnicity&lt;/em&gt; interact in shaping the perceived hirability of job candidates.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;cross-dialect-exposure-and-sociolinguistic-representations&#34;&gt;Cross-dialect exposure and sociolinguistic representations&lt;/h2&gt;&#xA;&lt;p&gt;In my PhD research, I studied &lt;strong&gt;how long-term exposure to a second dialect (D2) of a native language influences the mental representation of dialectal sounds&lt;/strong&gt;. My investigation focused specifically on native French speakers who had moved between France and Quebec. To examine how cross-dialectal exposure affects different levels of the language system, I tested changes in both speech production and perception. One of the most interesting patterns I found was that individuals showed &lt;em&gt;asymmetrical change&lt;/em&gt; across these domains in the degree to which they adapted to a D2: mobile speakers from France showed more adaptation toward Quebec French than mobile Quebec speakers did toward Hexagonal French (i.e., the French of France). I argue that this reflects, in part, the &lt;strong&gt;asymmetrical prestige and presence&lt;/strong&gt; of Hexagonal French versus Quebec French.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CV</title>

@@ -1,2 +1,1 @@
-{{< image src="/img/me.jpg" alt="Scott Kunkel" position="center" >}}
-
+![Scott Kunkel](/images/image_SK.jpg)

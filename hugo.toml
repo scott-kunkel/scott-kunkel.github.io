@@ -28,6 +28,11 @@ theme        = "hello-friend-ng"
 
   showHomeContent = true
 
+[params.portrait]
+  path = "images/image_SK.jpg"
+  alt = "Scott Kunkel"
+  maxWidth = "260px"
+
 [params.favicon]
   # Path relative to /static
   logo = "favicon.ico"
@@ -65,7 +70,7 @@ theme        = "hello-friend-ng"
     subtitle = "Research"
 
     [languages.en.params.logo]
-      logoText     = "Scott Kunkel – Academic webpage"
+      logoText     = "Scott Kunkel | Language researcher"
       logoHomeLink = "/"
       # Or use an image logo instead:
       # path = "/img/your-example-logo.svg"
@@ -93,3 +98,9 @@ theme        = "hello-friend-ng"
    name = "Contact"
    url = "/contact/"
    weight = 40   
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

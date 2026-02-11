@@ -7,12 +7,12 @@ Hi, I'm Scott (he/him).
 
 <div style="text-align: justify;">
 
-I completed my PhD in Linguistics at Queen Mary University of London (2021-2025), my master's studies at Indiana University (2018-2021), and my bachelor's studies at the University of Georgia (2012-2017). In 2025, I worked as a postdoctoral researcher at the University of Konstanz. 
+I received my PhD in Linguistics from Queen Mary University of London (2025). I previously earned my master’s degree from Indiana University (2021) and my bachelor’s degree from the University of Georgia (2017). In 2025, I worked as a postdoctoral researcher at the University of Konstanz. 
 
-My work sits at the intersection of **sociolinguistics**, **phonetics**, and **psycholinguistics**. In my research, I primarily use **experimental methods** to better understand the ways in which sociolinguistic variation is represented in the mind, as well as the perceptual and behavioral outcomes of these representations. I draw on a range of innovative, quantitative approaches in my work. Much of my work focuses on **cross-dialectal variation and accent perception**, particularly across varieties of French and English.
+My work sits at the intersection of **variationist sociolinguistics**, **phonetics**, and **psycholinguistics**. I use a range of quantitative methods to understand how socially meaningful variation is represented in the mind and how these representations shape perception and linguistic behavior. My current work focuses on cross-dialectal variation and accent perception, particularly across varieties of French and English, with an emphasis on experimentally modeling socially conditioned variation.
 
-I'm increasingly interested in ways that linguistics can be used to reveal and help rectify societal inequalities. I'm a firm advocate for open science practices and for making research as accessible and inclusive as possible.
+I'm interested in ways that linguistics can be used to reveal and help rectify societal inequalities. I am also a strong advocate for open science practices and for making research as accessible and inclusive as possible.
 
-🌱 Beyond research, I enjoy hiking, cooking, reading about ethics and anarchism, and listening to ambient music.  
+🌱 Beyond research, I enjoy hiking, cooking vegan recipes, reading fiction, playing the drums, and listening to ambient music.  
 
 </div>

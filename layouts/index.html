@@ -1,0 +1,29 @@
+{{ define "body" }}
+    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+{{ end }}
+
+{{ define "main" }}
+    <main>
+        <div>
+            {{ if .Site.Params.Portrait.Path }}
+<img src="{{ .Site.Params.Portrait.Path }}"
+     alt="{{ .Site.Params.Portrait.Alt }}"
+     style="max-width:{{ .Site.Params.Portrait.MaxWidth }};
+            border-radius:28px;
+            display:block;
+            margin:0 auto 28px auto;
+            box-shadow:0 20px 40px rgba(0,0,0,0.08);" />
+            {{ end }}
+
+            <h1>{{ .Site.Title }}</h1>
+
+            {{ partial "subtitle.html" . }}
+
+            {{- with .Site.Params.social }}
+                <div>
+                    {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+        </div>
+    </main>
+{{ end }}

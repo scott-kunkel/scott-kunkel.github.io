@@ -1,0 +1,7 @@
+{{ define "body" }} {{ end }} {{ define "main" }}
+{{ if .Site.Params.Portrait.Path }}  {{ end }}
+{{ .Site.Title }}
+{{ partial "subtitle.html" . }} {{- with .Site.Params.social }}
+{{ partial "social-icons.html" . }}
+{{- end }}
+{{ end }}
