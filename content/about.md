@@ -13,6 +13,6 @@ My work sits at the intersection of **variationist sociolinguistics**, **phoneti
 
 I'm interested in ways that linguistics can be used to reveal and help rectify societal inequalities. I am also a strong advocate for open science practices and for making research as accessible and inclusive as possible.
 
-🌱 Beyond research, I enjoy hiking, cooking vegan recipes, reading fiction, playing the drums, and listening to ambient music.  
+Beyond research, I enjoy hiking, cooking vegan recipes, reading fiction, playing the drums, and listening to ambient music.  
 
 </div>

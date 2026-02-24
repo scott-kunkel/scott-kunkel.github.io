@@ -20,7 +20,9 @@ You can download my full CV [here](https://drive.google.com/file/d/1Fol804SeYuPD
 - **Kunkel, S.**, Passoni, E., & de Leeuw, E. (2023). Perceptual discrimination of phonemic contrasts in Quebec French: Exposure to Quebec French does not improve perception in Hexagonal French native speakers living in Quebec. *Languages, 8*(3), 1–24. [https://doi.org/10.3390/languages8030193](https://doi.org/10.3390/languages8030193)
 
 ## Articles under review
-- **Kunkel, S.**, Chong, A. J., & de Leeuw, E. (under revision). The effects of cross-dialectal exposure on the perception and production of the French low vowel contrast. *Laboratory Phonology.* [[Pre-print]](https://www.researchgate.net/publication/394750088_Cross-dialectal_exposure_effects_on_the_production_and_perception_of_the_French_low-vowel_contrast)
+- **Kunkel, S.**, Chong, A. J., & de Leeuw, E. (revise and resubmit). The effects of cross-dialectal exposure on the perception and production of the French low vowel contrast. *Laboratory Phonology.* [[Preprint]](https://www.researchgate.net/publication/394750088_Cross-dialectal_exposure_effects_on_the_production_and_perception_of_the_French_low-vowel_contrast)
+
+– **Kunkel, S.** (under review). Multidimensional attitude effects in second dialect acquisition: Evidence from French dental stop affrication. *Language Variation and Change.* [[Preprint]](https://www.researchgate.net/publication/400961610_Multidimensional_attitude_effects_in_second_dialect_acquisition_Insights_from_French_dental_stop_affrication?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0)
 
 ## Recent Presentations
 - **Kunkel, S.**, Frassinelli, D., Gallo, A., Link, P., Quiros-Ramirez, M., Shikano, S., … Rathcke, T. (2025). *Testing primed associations of gendered political charisma using high-fidelity virtual avatars.* Talk given at Embodied and Situated Language Processing (ESLP), Aix-en-Provence, France. September 2025.
