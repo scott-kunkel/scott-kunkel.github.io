@@ -11,7 +11,7 @@ theme        = "hello-friend-ng"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  homeSubtitle = "Linguist • Researcher • Human being"
+  homeSubtitle = "Linguist • Researcher • Teacher"
 
   disableReadOtherPosts = false
   enableSharingButtons  = true

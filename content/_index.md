@@ -1,1 +1,1 @@
-![Scott Kunkel](/images/image_SK.jpg)
+![Scott Kunkel](/images/image_site.JPG)
