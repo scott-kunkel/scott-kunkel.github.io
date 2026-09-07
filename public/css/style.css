@@ -1,0 +1,318 @@
+/* ========================================
+   BASIC SETTINGS
+   ======================================== */
+
+:root {
+    --background: #F5F5F5;
+    --text: #292524;
+    --muted: #746d65;
+    --highlight: #B3E5FC;
+    --blue: #d4eaf0;
+}
+
+
+/* ========================================
+   RESET
+   ======================================== */
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+
+    background: var(--background);
+    color: var(--text);
+
+    font-family: Optima, sans-serif;
+
+    font-size: 17px;
+    line-height: 1.55;
+}
+
+.details {
+    display: inline-block;
+    margin-left: 12px;
+}
+
+
+/* ========================================
+   LEFT SIDEBAR
+   ======================================== */
+
+.sidebar {
+    position: fixed;
+
+    left: 0;
+    top: 0;
+
+    width: 28%;
+    height: 100vh;
+
+    padding: 70px 70px;
+
+    overflow-y: auto;
+}
+
+
+.site-name {
+    margin-bottom: 10px;
+
+    font-family: Optima, serif;
+
+    font-size: 40px;
+    line-height: 1.2;
+     margin-left: 25px;
+}
+
+
+/* ========================================
+   NAVIGATION
+   ======================================== */
+
+nav {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    margin-left: 23px;
+}
+
+
+nav a {
+    display: block; 
+
+    width: fit-content;
+
+    padding: 5px 11px;
+
+    border-radius: 6px;
+
+    color: var(--text);
+
+    text-decoration: none;
+
+    font-size: 16px;
+    letter-spacing: 0.01em;
+
+    transition:
+        background 0.2s ease,
+        transform 0.2s ease;
+}
+
+
+nav a:hover {
+    background: var(--highlight);
+
+    transform: translateX(10px);
+}
+
+
+nav a.active {
+    background: var(--highlight);
+}
+
+
+/* ========================================
+   MAIN CONTENT
+   ======================================== */
+
+.content {
+    width: 58%;
+
+    max-width: 850px;
+
+    margin-left: 28%;
+
+    padding: 70px 0;
+}
+
+
+/* ========================================
+   SECTIONS
+   ======================================== */
+
+section {
+    padding: 25px 0 0px;
+    scroll-margin-top: 50px;
+}
+
+#about {
+    padding-top: 2px;
+}
+
+
+/* ========================================
+   HEADINGS
+   ======================================== */
+
+h1 {
+    margin: 0 0 15px;
+
+    font-family: Optima, sans-serif;
+    
+    width: 83%;
+
+    font-size: 30px;
+    font-weight: normal;
+
+    line-height: 1.15;
+    
+    border-bottom: 1.3px solid #d6d3ce;
+}
+
+
+
+/* ========================================
+   TEXT
+   ======================================== */
+
+p {
+    max-width: 700px;
+    margin: 0 0 25px;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
+}
+
+
+strong {
+    font-weight: 600;
+}
+
+
+em {
+    font-family: Optima, sans-serif;
+}
+
+
+/* ========================================
+   PUBLICATION HIGHLIGHTS
+   ======================================== */
+
+.highlight {
+    display: inline;
+    padding: 0;
+    border-radius: 5px;
+    background: transparent;
+    transition: background 0.3s ease;
+}
+
+
+/* ========================================
+   LINKS
+   ======================================== */
+
+.content a {
+    color: inherit;
+
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+}
+
+
+.content a:hover {
+    background: transparent;
+    text-decoration: none;
+}
+
+.content a:hover .highlight {
+    background: var(--blue);
+}
+
+
+/* ========================================
+   MOBILE
+   ======================================== */
+
+@media (max-width: 800px) {
+
+    .sidebar {
+        position: relative;
+
+        width: 100%;
+        height: auto;
+
+        padding: 35px 25px 20px;
+    }
+
+
+    .site-name {
+        margin-bottom: 5px;
+    }
+
+
+    nav {
+        flex-direction: row;
+
+        flex-wrap: wrap;
+
+        gap: 4px;
+    }
+
+
+    .content {
+        width: auto;
+
+        margin-left: 0;
+
+        padding: 30px 25px;
+    }
+
+
+    section {
+        min-height: auto;
+
+        padding-bottom: 80px;
+    }
+
+
+    h1 {
+        font-size: 38px;
+    }
+
+}
+
+/* ========================================
+   PROFILE PHOTO
+   ======================================== */
+
+.profile {
+    margin-bottom: 5px;
+}
+
+.profile img {
+    width: 150px;
+    height: 190px;
+    object-fit: cover;
+    border-radius: 10%;
+    margin-left: 25px;
+}
+
+/* ========================================
+   STYLISTIC MODIFICATIONS
+   ======================================== */
+
+h1::before {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 7px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    background: #B3E5FC;
+    border-radius: 2px;
+}
+
+.site-subtitle {
+    margin-top: -15px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+    color: var(--muted);
+    font-size: 20px;
+    letter-spacing: 0.03em;
+}
